@@ -1,4 +1,4 @@
-# 🧠 AI Context & Rules Hub
+# 🧠 Context & Rules Hub
 
 A centralized repository for managing System Prompts, Rules, and Context for AI coding assistants (Cursor, Gemini, Copilot, OpenCode, etc.).
 
